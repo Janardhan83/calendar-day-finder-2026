@@ -170,7 +170,7 @@ Invalid Month
 
 ---
 
-<h2>👨‍💻 Author</h2>
+<h2>👨‍💻 Author: JANARDHAN M</h2>
 
 <p>
 Created by an aspiring Data Scientist while learning Python and problem-solving.
